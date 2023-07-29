@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/one"
+            android:icon="@drawable/timer"
+            android:title="Timer" />
+        <item
+            android:id="@+id/two"
+            android:icon="@drawable/timer"
+            android:title="Timer2" />
+        <item
+            android:id="@+id/three"
+            android:icon="@drawable/timer"
+            android:title="Timer3" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/four"
+            android:icon="@drawable/timer"
+            android:title="Timer4" />
+        <item
+            android:id="@+id/five"
+            android:icon="@drawable/timer"
+            android:title="Timer5" />
+        <item
+            android:id="@+id/six"
+            android:icon="@drawable/timer"
+            android:title="Timer6" />
+    </group>
+
+</menu>
